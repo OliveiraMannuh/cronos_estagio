@@ -83,14 +83,14 @@ export const galleryItems: GalleryItem[] = [
   },
   {
     id: 11,
-    url: 'https://drive.google.com/file/d/1SlCuWcx8gCnLN2yKUUNY_7_59jtrm3xv/view?usp=sharing',
+    url: 'https://drive.google.com/uc?export=view&id=1SlCuWcx8gCnLN2yKUUNY_7_59jtrm3xv',
     phrase: "Romper o silêncio é o primeiro passo para salvar vidas.",
     category: "Projeto",
     description: "O projeto \"Vozes interrompidas\" mostra a importância de envolver toda a comunidade acadêmica em um projeto."
   },
   {
     id: 12,
-    url: 'https://drive.google.com/file/d/1Q9m9bHSSXJraLqSDH3s-eHwAnBT_V2wR/view?usp=sharing',
+    url: 'https://drive.google.com/uc?export=view&id=1Q9m9bHSSXJraLqSDH3s-eHwAnBT_V2wR',
     phrase: "Romper o silêncio é o primeiro passo para salvar vidas.",
     category: "Projeto",
     description: "O projeto \"Vozes interrompidas\" mostra a importância de envolver toda a comunidade acadêmica em um projeto."
