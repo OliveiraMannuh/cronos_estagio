@@ -73,6 +73,20 @@ export const galleryItems: GalleryItem[] = [
     phrase: "Romper o silêncio é o primeiro passo para salvar vidas.",
     category: "Projeto",
     description: "O projeto \"Vozes interrompidas\" mostra a importância de envolver toda a comunidade acadêmica em um projeto."
+  },
+  {
+    id: 10,
+    url: 'https://i.postimg.cc/QdQ6hGmJ/Whats-App-Image-2026-05-28-at-19-55-47.jpg',
+    phrase: "Romper o silêncio é o primeiro passo para salvar vidas.",
+    category: "Projeto",
+    description: "O projeto \"Vozes interrompidas\" mostra a importância de envolver toda a comunidade acadêmica em um projeto."
+  },
+  {
+    id: 11,
+    url: 'https://i.postimg.cc/QdQ6hGmJ/Whats-App-Image-2026-05-28-at-19-55-47.jpg',
+    phrase: "Romper o silêncio é o primeiro passo para salvar vidas.",
+    category: "Projeto",
+    description: "O projeto \"Vozes interrompidas\" mostra a importância de envolver toda a comunidade acadêmica em um projeto."
   }
 
 ];
