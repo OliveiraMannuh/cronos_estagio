@@ -83,7 +83,14 @@ export const galleryItems: GalleryItem[] = [
   },
   {
     id: 11,
-    url: 'https://i.postimg.cc/QdQ6hGmJ/Whats-App-Image-2026-05-28-at-19-55-47.jpg',
+    url: 'https://i.postimg.cc/xT0GMJ3s/4990325980605909978.jpg',
+    phrase: "Romper o silêncio é o primeiro passo para salvar vidas.",
+    category: "Projeto",
+    description: "O projeto \"Vozes interrompidas\" mostra a importância de envolver toda a comunidade acadêmica em um projeto."
+  },
+  {
+    id: 12,
+    url: 'https://i.postimg.cc/43SZb9cP/Whats-App-Image-2026-06-03-at-08-05-14.jpg',
     phrase: "Romper o silêncio é o primeiro passo para salvar vidas.",
     category: "Projeto",
     description: "O projeto \"Vozes interrompidas\" mostra a importância de envolver toda a comunidade acadêmica em um projeto."
